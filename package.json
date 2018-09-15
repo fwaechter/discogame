@@ -1,0 +1,24 @@
+{
+  "name": "discogame",
+  "version": "0.0.1",
+  "description": "Discord Bot for OGame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fwaechter@github.com/fwaechter/discogame.git"
+  },
+  "keywords": [
+    "discord",
+    "ogame",
+    "bot"
+  ],
+  "author": "Flavio Wächter",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/fwaechter/discogame/issues"
+  },
+  "homepage": "https://github.com/fwaechter/discogame#readme"
+}
