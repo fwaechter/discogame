@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/fwaechter/discogame/issues"
   },
-  "homepage": "https://github.com/fwaechter/discogame#readme"
+  "homepage": "https://github.com/fwaechter/discogame#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
 }
